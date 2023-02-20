@@ -1,0 +1,7 @@
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd"> 
+<toc version="2.0">
+	<tocitem text="Inicio" target="inicio"/>
+	<tocitem text="Cursos" target="curso"/>
+	<tocitem text="Matricula" target="matricula"/>
+	<tocitem text="Alumnos" target="alumnos"/>
+</toc>
